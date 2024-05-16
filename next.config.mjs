@@ -27,6 +27,6 @@ const nextConfig = {
       pure: false,
     },
   },
-};
+}
 
-export default nextConfig;
+export default nextConfig
